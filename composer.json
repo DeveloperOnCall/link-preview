@@ -2,7 +2,7 @@
     "name": "dusterio/link-preview",
     "type": "library",
     "description": "Link preview generation for PHP with Laravel support",
-    "keywords": ["php","url","scraping","laravel","preview"],
+    "keywords": ["php","url","scraping","laravel","preview","angie"],
     "homepage": "http://github.com/dusterio/link-preview",
     "license": "MIT",
     "authors": [
